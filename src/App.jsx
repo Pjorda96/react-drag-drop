@@ -46,8 +46,6 @@ const App = () => {
     setBoxes(newBoxState);
   };
 
-  // https://dev.to/colinmcd01/drag-drop-re-ordering-using-html-and-react-974
-
   return (
     <div className="App">
       {boxes
